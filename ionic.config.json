@@ -1,0 +1,7 @@
+{
+  "name": "miFinity",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
