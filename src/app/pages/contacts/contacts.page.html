@@ -1,0 +1,28 @@
+<ion-header>
+  <ion-toolbar color="tertiary">
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>Contacts</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <!-- <ion-searchbar (ionChange)="searchChanged($event)"></ion-searchbar> -->
+
+  <ion-list>
+
+    <ion-item button *ngFor="let item of data" [routerLink]="['/menu/contacts/', item.id]" expand="full">
+
+      <ion-icon slot="start" name="person"></ion-icon>
+
+      <ion-label text-wrap>
+        {{ item.name}}
+        <h3>{{ item. country}}</h3>
+      </ion-label>
+
+    </ion-item>
+  </ion-list>
+
+</ion-content>

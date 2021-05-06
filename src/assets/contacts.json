@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "address": "777 Brockton Avenue",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 2,
+    "name": "Jennifer",
+    "address": "30 Memorial Drive",
+    "country": "USA"
+  },
+  {
+    "id": 3,
+    "name": "Robert",
+    "address": "250 Hartford Avenue",
+    "country": "Ireland"
+  },
+  {
+    "id": 4,
+    "name": "Barbara",
+    "address": "700 Oak Street",
+    "country": "Portugal"
+  },
+  {
+    "id": 5,
+    "name": "Christopher",
+    "address": "66-4 Parkhurst Rd",
+    "country": "Germany"
+  },
+  {
+    "id": 6,
+    "name": "Sarah",
+    "address": "55 Brooksby Village Way",
+    "country": "France"
+  },
+  {
+    "id": 7,
+    "name": "Mark",
+    "address": "137 Teaticket Hwy",
+    "country": "Sweden"
+  },
+  {
+    "id": 8,
+    "name": "Paul",
+    "address": "121 Worcester Rd",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 9,
+    "name": "Joshua",
+    "address": "337 Russell St",
+    "country": "Mexico"
+  },
+  {
+    "id": 10,
+    "name": "Carol",
+    "address": "70 Pleasant Valley Street",
+    "country": "Netherlands"
+  }
+]
